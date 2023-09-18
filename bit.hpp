@@ -1,0 +1,1 @@
+std::string bit( long num);
